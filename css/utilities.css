@@ -1,13 +1,13 @@
-.flex{
+.flex {
     display: flex;
-}
-.items-center{
+  }
+  .items-center {
     align-items: center;
-}
-.justify-between{
+  }
+  .justify-between {
     justify-content: space-between;
-}
-.btn{
+  }
+  .btn {
     padding: 0.8rem 3rem;
     font-size: 1rem;
     font-weight: 600;
@@ -15,29 +15,33 @@
     outline: none;
     cursor: pointer;
     text-transform: uppercase;
-}
-.btn-primary{
+  }
+  .btn-primary {
     background: var(--primary);
     color: var(--secondary);
-}
-.btn-primary:hover{
+  }
+  .btn-primary:hover {
     background: transparent;
     border-color: var(--primary);
     color: var(--primary);
-    transition: all .3s ease;
-}
-.btn-secondary{
+    transition: all 0.3s ease;
+  }
+  .btn-secondary {
     background: transparent;
     color: var(--primary);
     border-color: var(--primary);
-}
-.btn-secondary:hover{
+  }
+  .btn-secondary:hover {
     background: var(--primary);
     color: var(--secondary);
-}
-.flex-1{
-    flex:1;
-}
-.justify-center{
+  }
+  .flex-1 {
+    flex: 1;
+  }
+  .justify-center {
     justify-content: center;
-}
+  }
+  .span {
+    color: var(--primary);
+  }
+  
