@@ -367,6 +367,10 @@ section.blog .card-wrapper .card .card-content p {
 section.blog .card-wrapper .card .card-content a.read-more {
   font-size: 00.8rem;
 }
+/* section .contact{
+  clip-path: polygon(0 0,67% 10%, 100% 0, 100% 100%,  0 100%);
+
+} */
 section.contact .card-wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
