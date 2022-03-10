@@ -21,3 +21,7 @@ $(document).ready(function(){
     })
 
 });
+
+let prev=document.getElementsByClassName(".slick-prev");
+prev.innerHTML="<<"
+console.log(prev)
