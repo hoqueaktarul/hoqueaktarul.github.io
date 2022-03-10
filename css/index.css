@@ -266,7 +266,7 @@ section.reviews .slider-dots {
 }
 section.reviews .slider-dots button {
   font-size: 0;
-  width: 22px;
+  width: 23px;
   height: 8px;
   margin-right: 0.3rem;
   border: none;
@@ -277,7 +277,7 @@ section.reviews .slider-dots button {
 }
 section.reviews .dots li.slick-active button {
   background: var(--primary);
-  width: 50px;
+  width: 51px;
 }
 /* section.reviews .slick-prev {
   display: inline-block;
