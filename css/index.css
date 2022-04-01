@@ -57,6 +57,10 @@ header nav .left a {
   text-transform: uppercase;
   transition: all 0.3s ease;
 }
+.contact_button{
+  text-decoration: none;
+  color: black;
+}
 header nav .left a:hover {
   color: var(--primary);
 }
